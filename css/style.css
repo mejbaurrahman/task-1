@@ -1,0 +1,26 @@
+body {
+  background-color: #f1f1f1;
+}
+
+.main-section {
+  width: 25%;
+  height: 25%;
+  margin: auto;
+  text-align: center;
+}
+
+#congrats-section {
+  background-color: white;
+  line-height: 10px;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  padding-left: 10%;
+  padding-right: 10%;
+  border-bottom-left-radius: 50%;
+  border-bottom-right-radius: 50%;
+}
+
+#celebration-section {
+  width: 70%;
+  margin: auto;
+}
